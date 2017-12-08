@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author Don sdfsdf
+ * @author Don sdfsdf stutter
  */
 public class ArrayStuff {
     double[][] b = {{0.0, 1, 1}, {0.0, 1, 1},};
